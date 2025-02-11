@@ -1,0 +1,2 @@
+This is branch2 file
+Updated content in branch2 file
